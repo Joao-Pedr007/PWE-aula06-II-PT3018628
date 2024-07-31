@@ -1,0 +1,17 @@
+<style type='text/css'>body {
+  background: blue
+}
+
+h1 {
+  color: green
+}
+
+p {
+  color: pink
+}
+
+p.center {
+  text-align: center
+}
+
+</style>
