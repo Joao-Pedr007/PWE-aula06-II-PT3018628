@@ -11,9 +11,13 @@ h1 {
   margin-bottom: 20px;
 }
 
-p {
+p.direita {
   line-height: 1.6;
   text-align: right;
+}
+
+p.grandão {
+  font-size: 45px;
 }
 
 ul {
@@ -45,4 +49,25 @@ li.verde {
 li.laranja {
   font-family: sans-serif;
   color: orange;
+}
+
+
+/*link n visitado*/
+a:link {
+  color: red;
+}
+
+/*link visitado*/
+a:visited {
+  color: green;
+}
+
+/*mouse sobre o link*/
+a:hover {
+  color: hotpink;
+}
+
+/*link selecionado*/
+a:active {
+  color: blue;
 }
