@@ -19,16 +19,25 @@ p {
 ul {
   list-style-type: square;
   padding-left: 100px;
+  font-size: 32px;
 }
 
 li.rosa {
+  font-family: comic sans ms;
   color: pink;
 }
 
 li.azul {
+  font-family: 'Times New Roman', Times, serif;
   color: blue;
 }
 
 li.verde {
+  font-family: arial;
   color: green;
+}
+
+li.laranja {
+  font-family: sans-serif;
+  color: orange;
 }
