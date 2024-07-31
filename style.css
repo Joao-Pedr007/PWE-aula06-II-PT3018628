@@ -22,6 +22,11 @@ ul {
   font-size: 32px;
 }
 
+li#item3,
+#item4 {
+  text-align: center;
+}
+
 li.rosa {
   font-family: comic sans ms;
   color: pink;
